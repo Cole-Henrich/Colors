@@ -1,5 +1,3 @@
-package org.headroyce.bsea;
-
 import javafx.animation.AnimationTimer;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -9,8 +7,6 @@ import javafx.scene.control.Button;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.StackPane;
-
-import java.security.Key;
 
 /**
  * Represents the view element of the game
